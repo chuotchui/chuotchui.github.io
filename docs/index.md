@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Chuột Chũi"
-  text: "Chúng tôi bán tài liệu học tập để ôn thi đại học"
+  text: "Chúng mình bán tài liệu học tập để ôn thi đại học"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Giá rẻ
+    details: Giá cả dễ tiếp cận với học sinh, cùng nhiều ưu đãi hấp dẫn
+  - title: Uy tín
+    details: Dịch vụ minh bạch, rõ ràng, uy tín
+  - title: Ưu đãi
+    details: Vô vàn ưu đãi cho người mới và hậu đãi cho những khách hàng thân quen
 ---
-
